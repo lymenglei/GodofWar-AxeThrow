@@ -20,6 +20,11 @@ After cloning or downloading the repository, open the root project folder in uni
 
 You can see a running demo of the project in [this video](https://youtu.be/M-3P59GtRW4).
 
+### 报错解决
+如果有类似报错，'Snapping' is an ambiguous reference between 'UnityEngine.ProBuilder.Snapping' and 'UnityEngine.Snapping'
+更新 ProBuilder in the Package Manager.
+
+
 ## Built With
 
 * [DOTween](http://dotween.demigiant.com/) - DOTween is a fast, efficient, fully type-safe object-oriented animation engine for Unity, optimized for C# users, free and open-source, with tons of advanced features
